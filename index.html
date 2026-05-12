@@ -62,6 +62,30 @@
         border-left: 5px solid #004080;
     }
 
+    form {
+        display: flex;
+        flex-direction: column;
+        max-width: 400px;
+    }
+
+    input, textarea {
+        margin-bottom: 10px;
+        padding: 10px;
+        border: 1px solid #ccc;
+    }
+
+    button {
+        padding: 10px;
+        background: #004080;
+        color: white;
+        border: none;
+        cursor: pointer;
+    }
+
+    button:hover {
+        background: #00264d;
+    }
+
     footer {
         text-align: center;
         background: black;
@@ -75,62 +99,58 @@
 <body>
 
 <header>
-    <h1>Phoenix Pre, Primary and Secondary School</h1>
+    <h1>Phoenix pre, primary and secondary School</h1>
     <p>Determination to succeed through quality education</p>
 </header>
 
 <nav>
     <a href="index.html">Home</a>
-    <a href="enrol.html">Enroll</a>
-    <a href="offer.html">Service Offers</a>
-    <a href="subject.html">All Subjects</a>
+    <a href="ENROL.html">Enroll</a>
+    <a href="OFFER.html">Service offers</a>
+    <a href="SUBJECT.html">All Subjects</a>
+    
+    
 </nav>
 
-<div class="hero">
+<div class="hero" id="home">
     Welcome to Our School
 </div>
 
 <div class="container">
 
     <!-- About Section -->
-    <div class="section">
+    <div class="section" id="about">
         <h2>About Our School</h2>
         <p>
             Phoenix School is dedicated to providing quality education
             that empowers students with knowledge, skills, and values for life.
         </p>
-    </div>
+  
+        
+    <h2>Contact Us</h2>
+    <p>Cell: +260 979344 533/0955 959 480</p>
+    <p>Tel: +260 211 285056</p>
+    <p>Email: phoenixschool35@yahoo.com</p>
+    <p>Whatsapp: +260 955 959 480</p>
+  
+<h2>Location of school</h2>
+    <p>Off beni mwiinga road, Plot no: 3594/1</p>
+    <p>P.O Box 320423</p>
+    <p>PHI,Lusaka,Zambia</p>
 
-    <!-- Contact Section -->
-    <div class="section">
-        <h2>Contact Us</h2>
-        <p>Cell: +260 979344 533 / 0955 959 480</p>
-        <p>Tel: +260 211 285056</p>
-        <p>Email: phoenixschool35@yahoo.com</p>
-        <p>WhatsApp: +260 955 959 480</p>
-    </div>
+<h2>Mission statement</h2>
+Dedicated to providing quality education that empowers students with knowledge, skills, and values for life.</p>
+    
+<h2>Vision</h2>
+    <p>Quality education is a key to success</p>
+  
 
-    <!-- Location Section -->
-    <div class="section">
-        <h2>Location of School</h2>
-        <p>Off Beni Mwiinga Road, Plot No: 3594/1</p>
-        <p>P.O Box 320423</p>
-        <p>PHI, Lusaka, Zambia</p>
-    </div>
 
-    <!-- Mission Section -->
-    <div class="section">
-        <h2>Mission Statement</h2>
-        <p>
-            Dedicated to providing quality education that empowers students
-            with knowledge, skills, and values for life.
-        </p>
-    </div>
+</section>
 
-    <!-- Vision Section -->
-    <div class="section">
-        <h2>Vision</h2>
-        <p>Quality education is a key to success</p>
+      
+
+        <p id="response"></p>
     </div>
 
 </div>
@@ -138,6 +158,8 @@
 <footer>
     <p>&copy; 2026 Phoenix School. All Rights Reserved.</p>
 </footer>
+
+
 
 </body>
 </html>
