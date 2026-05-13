@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/issues</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/pulls</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/security</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/blob/main/ENROL.html</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/blob/main/OFFER.html</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/blob/main/README.md</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/blob/main/SUBJECT.html</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/blob/main/enrol.html</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/blob/main/google33180f74ac2fc805%20(5).html</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/blob/main/google33180f74ac2fc805.html</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/blob/main/index.html</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/blob/main/offer.html</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/blob/main/subject.html</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/blob/main/web.config</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/activity</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/releases</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/search?q=repo%3Akanyangagift97-ui%2Fmywebsite++language%3AHTML</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/labels</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/milestones</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/workflows/static.yml</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/workflows/jekyll-docker.yml</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/caches</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25760586420</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/commit/6b63857e1c5727932ff6c4f2761d77fa988c6acb</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25760586420/workflow</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25760586398</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25760586398/workflow</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25760395401</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/commit/b32d00a7037bab1b6f8db205c6f546c2fe637409</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25760395401/workflow</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25760395394</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25760395394/workflow</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25756973193</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/commit/ecad7e0d8eb5eab86186b7bc831e22d6f4859d2a</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25756973193/workflow</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25756973178</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25756973178/workflow</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25756693235</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/commit/3e165edd99cff6ed334f75115f218f4a496b9d88</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25756693235/workflow</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25756693216</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25756693216/workflow</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25751539903</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/commit/6a4838464369a6b8addd15f905f3e50893a609de</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25751539903/workflow</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25751539894</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25751539894/workflow</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25751500788</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/commit/4a8f9be15ba427bd52bc594c1881ce8fb2a47d67</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25751500788/workflow</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25751500771</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25751500771/workflow</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25750211721</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/commit/d11c8951b43a92b07f1add010557528df9307dfd</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25750211721/workflow</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25750211718</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25750211718/workflow</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25466601546</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/commit/6fc945becf243ef47dcdcf9bf20441c1768e5cf5</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25466601546/workflow</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25466601521</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25466601521/workflow</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25466209885</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/commit/b98bb9d56ff0ab59ceee9b7f1765e83e2c9f4571</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25466209885/workflow</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25466160920</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/commit/f270543ee03e9289224ebcf4420d5255c000a068</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25466160920/workflow</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/milestones?state=closed</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/blob/main/.github/workflows/static.yml</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/blob/main/.github/workflows/jekyll-docker.yml</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/caches?query=sort%3Aaccessed-desc</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/caches?query=sort%3Aaccessed-asc</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/caches?query=sort%3Acreated-desc</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/caches?query=sort%3Acreated-asc</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/caches?query=sort%3Asize-desc</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/caches?query=sort%3Asize-asc</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25760586420/usage</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25760586420/job/75660395286</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/blob/6b63857e1c5727932ff6c4f2761d77fa988c6acb/.github/workflows/static.yml</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/login?return_to=https%3A%2F%2Fgithub.com%2Fkanyangagift97-ui%2Fmywebsite%2Fedit%2Fmain%2F.github%2Fworkflows%2Fstatic.yml</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25760586398/usage</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25760586398/job/75660394985</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/blob/6b63857e1c5727932ff6c4f2761d77fa988c6acb/.github/workflows/jekyll-docker.yml</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/login?return_to=https%3A%2F%2Fgithub.com%2Fkanyangagift97-ui%2Fmywebsite%2Fedit%2Fmain%2F.github%2Fworkflows%2Fjekyll-docker.yml</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25760395401/usage</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25760395401/job/75659724083</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/blob/b32d00a7037bab1b6f8db205c6f546c2fe637409/.github/workflows/jekyll-docker.yml</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25760395394/usage</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25760395394/job/75659724257</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/blob/b32d00a7037bab1b6f8db205c6f546c2fe637409/.github/workflows/static.yml</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25756973193/usage</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25756973193/job/75647892478</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/blob/ecad7e0d8eb5eab86186b7bc831e22d6f4859d2a/.github/workflows/static.yml</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25756973178/usage</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25756973178/job/75647892349</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/blob/ecad7e0d8eb5eab86186b7bc831e22d6f4859d2a/.github/workflows/jekyll-docker.yml</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25756693235/usage</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25756693235/job/75646899180</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/blob/3e165edd99cff6ed334f75115f218f4a496b9d88/.github/workflows/static.yml</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25756693216/usage</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25756693216/job/75646898786</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/blob/3e165edd99cff6ed334f75115f218f4a496b9d88/.github/workflows/jekyll-docker.yml</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25751539903/usage</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25751539903/job/75628849920</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/blob/6a4838464369a6b8addd15f905f3e50893a609de/.github/workflows/jekyll-docker.yml</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25751539894/usage</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25751539894/job/75628850028</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/blob/6a4838464369a6b8addd15f905f3e50893a609de/.github/workflows/static.yml</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25751500788/usage</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25751500788/job/75628709185</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/blob/4a8f9be15ba427bd52bc594c1881ce8fb2a47d67/.github/workflows/static.yml</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25751500771/usage</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25751500771/job/75628708950</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/blob/4a8f9be15ba427bd52bc594c1881ce8fb2a47d67/.github/workflows/jekyll-docker.yml</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25750211721/usage</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25750211721/job/75624220471</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/blob/d11c8951b43a92b07f1add010557528df9307dfd/.github/workflows/jekyll-docker.yml</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25750211718/usage</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25750211718/job/75624220721</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/blob/d11c8951b43a92b07f1add010557528df9307dfd/.github/workflows/static.yml</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25466601546/usage</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25466601546/job/74721189704</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/blob/6fc945becf243ef47dcdcf9bf20441c1768e5cf5/.github/workflows/static.yml</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25466601521/usage</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25466601521/job/74721189530</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/blob/6fc945becf243ef47dcdcf9bf20441c1768e5cf5/.github/workflows/jekyll-docker.yml</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25466209885/usage</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25466209885/job/74719959522</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/blob/b98bb9d56ff0ab59ceee9b7f1765e83e2c9f4571/.github/workflows/jekyll-docker.yml</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25466160920/usage</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/actions/runs/25466160920/job/74719808299</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/commit/9145f071315840b07f33983b870f1fed47097c26</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/blob/f270543ee03e9289224ebcf4420d5255c000a068/.github/workflows/jekyll-docker.yml</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/kanyangagift97-ui/mywebsite/commit/9adc09c3239548d3fda8a46abcfb3ce41ad1563d</loc>
+  <lastmod>2026-05-13T16:26:10+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
